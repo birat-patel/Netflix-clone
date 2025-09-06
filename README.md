@@ -23,7 +23,6 @@ https://github.com/birat-patel/Netflix-clone
 
 
 ## Folder Structure  
-
  Netflix-clone/
  ├── index.html
  ├── style.css
@@ -31,5 +30,27 @@ https://github.com/birat-patel/Netflix-clone
  ├── script.js
  ├── README.md
  └── assets/
-      └── images+svg
+      ├──images+svg (images/svg used inside the website)
       └── webside-view/
+           └── screenshots (screenshots for used README file only, not used in website) 
+
+
+## Screenshots  
+
+### Home Page
+![Home Page](assets/webside-view/Screenshot 2025-09-05 200103.png)
+
+### FAQ Section
+![FAQ Section](images/faq.png)
+
+### Carousel
+![Carousel](images/carousel.png)
+
+
+## How to Run Locally  
+```bash
+git clone https://github.com/birat-patel/Netflix-clone
+
+
+Note: This project is made just for practice/learning purpose and is not an official Netflix product.
+
