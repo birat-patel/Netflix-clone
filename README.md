@@ -38,7 +38,7 @@ https://github.com/birat-patel/Netflix-clone
 ## Screenshots  
 
 ### Home Page
-![Home Page](assets/webside-view/Screenshot 2025-09-05 200103.png)
+![Home Page](https://github.com/birat-patel/Netflix-clone/blob/main/assets/webside-view/Screenshot%202025-09-05%20200103.png?raw=true)
 
 ### FAQ Section
 ![FAQ Section](images/faq.png)
