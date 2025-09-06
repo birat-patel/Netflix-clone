@@ -48,7 +48,7 @@ https://github.com/birat-patel/Netflix-clone
 ![FAQ Section](https://github.com/birat-patel/Netflix-clone/blob/81a157fd7a06ead019f7bbe23cdce3ae4c38a651/assets/webside-view/Screenshot%202025-09-05%20200137.png)
 
 ### Footer
-![Footer]([images/carousel.png](https://github.com/birat-patel/Netflix-clone/blob/81a157fd7a06ead019f7bbe23cdce3ae4c38a651/assets/webside-view/Screenshot%202025-09-05%20200227.png))
+![Footer](https://github.com/birat-patel/Netflix-clone/blob/81a157fd7a06ead019f7bbe23cdce3ae4c38a651/assets/webside-view/Screenshot%202025-09-05%20200227.png)
 
 
 ## How to Run Locally  
